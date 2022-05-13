@@ -1,4 +1,4 @@
-# Akash-Mohanasundaram-Digirocks-Website-for-Selling-Electonics-Project
+# Digirocks-Website-for-Selling-Electonics-Project
 
 # Ehub
 An online website to sell electronic products at a cheaper price.
